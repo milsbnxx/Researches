@@ -3,7 +3,6 @@
 > RU: В этом репозитории — мои исследования про (1) AI-персонализацию в уходе/косметике и (2) объяснимые рекомендации еды/питания (XAI).
 
 ## Contents
-- `papers/`
   - **Artificial Intelligence in Personalized Skincare and Cosmetics: A Systematic Literature Review** (Apr 05, 2025)
   - **Explainable AI for Nutrition: A Research Proposal on Enhancing Trust and Health Outcomes in Food Recommendation Systems** (Apr 30, 2025)
 
@@ -55,17 +54,6 @@ What are the effects of integrating nutritional expertise and user-centered expl
 Higher trust, improved usability, and better nutritional quality in the XAI condition.
 
 ---
-
-## Repo structure (suggested)
-- `papers/` — PDFs of the research works
-- `notes/` — reading notes, outlines, review tables
-- `assets/` — figures, PRISMA diagram, images for README
-- `code/` — (optional) prototypes / notebooks for experiments
-
----
-
-## How to cite
-If you use this repository, please cite the corresponding PDF from `papers/`.
 
 ## Author
 Sabina Yamilova
